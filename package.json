@@ -1,0 +1,23 @@
+{
+  "name": "find-the-differences-ai-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilyoshev/find-the-differences-ai-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasilyoshev/find-the-differences-ai-api/issues"
+  },
+  "homepage": "https://github.com/vasilyoshev/find-the-differences-ai-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
