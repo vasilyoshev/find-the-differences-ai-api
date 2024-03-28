@@ -1,4 +1,4 @@
-# [Find the differences AI API](https://find-the-differences-ai-api.onrender.com)
+# [plAIbox API](https://plaibox-api.onrender.com)
 
 ## Development
 
